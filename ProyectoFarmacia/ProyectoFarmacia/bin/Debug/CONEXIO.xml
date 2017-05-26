@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CONFIGURACION>
+<CONEXION>
+<SERVIDOR>(local)</SERVIDOR>
+<BASE>proyecto</BASE>
+<USUARIO>sa</USUARIO>
+<CONTRA>admin123</CONTRA>
+</CONEXION>
+</CONFIGURACION>
